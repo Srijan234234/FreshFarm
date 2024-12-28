@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "freshfarm",
+    "slug": "freshfarm",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
